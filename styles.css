@@ -174,7 +174,7 @@ img {
 
 .hero .container {
   height: 100%;
-  background: url(hero-bg.png);
+  background: url(./hero-bg.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom;
@@ -201,7 +201,7 @@ img {
     height: 800px;
   }
   .hero .container {
-    background: url(./images/hero-bg-mobile.png);
+    background: url(./hero-bg-mobile.png);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: 350px 400px;
